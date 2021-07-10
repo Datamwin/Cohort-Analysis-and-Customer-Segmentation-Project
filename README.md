@@ -9,7 +9,7 @@ Recomenadtion are made based finding from anyzing the segments(clusters
 
 **1. Data gathering**
 
-The dataset of the UK based Retailed Company can be obtained from the [UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+The dataset is from a  Retail Company and can be obtained from the [UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 **2. Exploratory Data Analysis and Data Cleaning**
 
