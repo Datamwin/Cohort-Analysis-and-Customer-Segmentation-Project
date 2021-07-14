@@ -36,7 +36,7 @@ At this point, the metrics are centered and tranformed to enhace KMeans clusteri
 
 This is the modelling stage where an unsupervised machine learning algorithm is implemented to build custers. 
 
-**7. Analysing each cluster**
+**7. Analyzing each cluster**
 
 This satge involves analysis of  each cluster to regards Recency Frequency and Monetary value.
 
