@@ -2,7 +2,7 @@
 
 This project aims at calculating customer retention rate through cohort analysis and segmenting customers for an online retail company.
 Customers are segmented using an unsupervised machine learning algorithm. The segmentation is based on three metrics - Recency, Frequency and Monetary.
-Recomendation are made based on findings from anyzing the segments(clusters)
+Recommendation are made based on findings from anyzing the segments(clusters)
 
 
 ## The project stages are as follows:
