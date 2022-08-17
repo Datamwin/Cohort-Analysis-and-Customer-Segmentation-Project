@@ -1,4 +1,4 @@
-## Cohort-Analysis-and-Customer-Segmentation-Project
+# Cohort-Analysis-and-Customer-Segmentation-Project
 
 This project aims at calculating customer retention rate through cohort analysis and segmenting customers for an online retail company.
 Customers are segmented using an unsupervised machine learning algorithm. The segmentation is based on three metrics - Recency, Frequency and Monetary.
