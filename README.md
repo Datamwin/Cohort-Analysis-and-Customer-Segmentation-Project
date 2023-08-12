@@ -1,8 +1,8 @@
 # Cohort-Analysis-and-Customer-Segmentation-Project
 
-This project aims at calculating customer retention rate through cohort analysis and segmenting customers for an online retail company.
-Customers are segmented using an unsupervised machine learning algorithm. The segmentation is based on three metrics - Recency, Frequency and Monetary.
-Recommendation are made based on findings from anyzing the segments(clusters)
+This project aims at calculating the customer retention rate through cohort analysis and segmenting customers for an online retail company.
+Customers are segmented using an unsupervised machine-learning algorithm. The segmentation is based on three metrics - Recency, Frequency and Monetary.
+Recommendations are made based on findings from analyzing the segments(clusters)
 
 
 ## The project stages are as follows:
@@ -14,32 +14,32 @@ The dataset is from a  Retail Company and can be obtained from the [UCI Machine 
 **2. Exploratory Data Analysis and Data Cleaning**
 
 At this stage, the data was explored using descriptive statistics and visualizations.
-The quality of the data was ensured by cleaning and removing missing and  negative values of sales and unit price which were  percieved to be returned goods or data entry error.
+The quality of the data was ensured by cleaning and removing missing and  negative values of sales and unit price which were  perceived to be returned goods or data entry errors.
 
-**3. Time based cohort analysis**
-This stage provides solution to the first part of the problem stament.
+**3. Time-based cohort analysis**
+This stage provides a solution to the first part of the problem statement.
 
 At this stage, the retention rate for each cohort is calculated and visualized. 
 
 
 **4. Feature Engineering**
 
-Metrics that represent customers behaviour were created to from the alresdy existing variables.
-The metrics includes Recency,Frequency and Monetary.
+Metrics that represent customers' behaviour were created from the already existing variables.
+The metrics include Recency, Frequency and Monetary.
 Segmentation will be done using these metrics.
 
 **5. Data preprocessing for modelling**
 
-At this point, the metrics are centered and tranformed to enhace KMeans clustering.
+At this point, the metrics are centred and transformed to enhance KMeans clustering.
 
 **6. Creating clusters using KMeans Algorithm**
 
-This is the modelling stage where an unsupervised machine learning algorithm is implemented to build custers. 
+This is the modelling stage where an unsupervised machine learning algorithm is implemented to build clusters. 
 
 **7. Analyzing each cluster**
 
-This satge involves analysis of  each cluster to regards Recency Frequency and Monetary value.
+This stage involves analysis of  each cluster to regards Recency Frequency and Monetary value.
 
 **8. Conclusion and Recommendations**
 
-This is the final stage. It comprises the report on the the findings from the project and recomendations.
+This is the final stage. It comprises the report on the findings from the project and recommendations.
