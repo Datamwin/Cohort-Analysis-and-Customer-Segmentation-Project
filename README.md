@@ -1,8 +1,34 @@
 # Cohort-Analysis-and-Customer-Segmentation-Project
 
-This project aims at calculating the customer retention rate through cohort analysis and segmenting customers for an online retail company.
+**Project Overview**
+
+This project aims at calculating the customer retention rate through cohort analysis, and segmenting customers for a UK based online retail company.
 Customers are segmented using an unsupervised machine-learning algorithm. The segmentation is based on three metrics - Recency, Frequency and Monetary.
 Recommendations are made based on findings from analyzing the segments(clusters)
+
+**Cohort Analysis** 
+
+Cohort means a group of entities with common behaviour or characteristics.
+
+Cohort analysis is a type of behavioural analytics in which entities (in this case consumers ) are grouped based on their shared characteristics.It is basically the description of cohorts.
+
+Cohort analysis could be based on cohort size, behavoir, or time. Time based cohort analysis calculates retention rate which helps make informed product decisions that reduce customer churn and increase revenue. 
+Time based cohort analysis measures customer engagement over time.
+
+**Customer segmentation**
+
+Customer segmentation is the act of dividing customers into groups such that each group has similar characteristics.
+Customer segmentation could be based on customer location, demographics, or behaviour.
+
+This project is divided into two sections. Whiles section one focuses on cohort analysis , section two focues on customer segmentation.
+
+## Problem Statements
+
+A Retail  Company wants to improve its products, customer relations and maximize sales.
+
+To achieve this, the comapny wants to calculate the percentage of customers it's able to retain in a month.
+
+The company also need to segment it cusromers for target maketting and promotions.
 
 
 ## The project stages are as follows:
